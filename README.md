@@ -9,3 +9,14 @@ Question Statement:
 3. The inverse of a number is defined as the number created by interchanging the face value and index of digits of number.e.g. for 426135 (reading from right to left, 5 is in place 1, 3 is in place 2, 1 is in place 3, 6 is in place 4, 2 is in place 5 and 4 is in place 6), the inverse will be 416253 (reading from right to left, 3 is in place 1, 5 is in place 2,2 is in place 3, 6 is in place 4, 1 is in place 5 and 4 is in place 6) More examples - inverse of 2134 is 1243 and inverse of 24153 is 24153    
 4. Take as input number "n", assume that the number will follow constraints.
 5. Print it's inverse.
+
+2.Rotate a number
+
+Question Statement: 
+1. You are given two numbers n and k. You are required to rotate n, k times to the right. If k is positive, rotate to the right i.e. remove rightmost digit and make it leftmost. Do the reverse for negative value of k. Also k can have an absolute value larger than number of digits in n.
+2. Take as input n and k.
+3. Print the rotated number.
+4. Note - Assume that the number of rotations will not cause leading 0's in the result. e.g. such an input will not be given
+   n = 12340056
+   k = 3
+   r = 05612340
