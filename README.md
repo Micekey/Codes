@@ -20,3 +20,10 @@ Question Statement:
    n = 12340056
    k = 3
    r = 05612340
+
+4.Pattern 1
+   *
+   **
+   ***
+   ****
+   *****
